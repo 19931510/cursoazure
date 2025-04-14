@@ -35,6 +35,10 @@ Painel serve como uma interface personalizável que permite visualizar e gerenci
 ![image](https://github.com/user-attachments/assets/4906e833-d299-4c0c-bc77-f06905770479)
 
 
+Conclusão
+
+O Azure oferece uma ampla gama de ferramentas e recursos para otimizar a gestão e o fluxo de dados, garantindo eficiência e segurança. Com o Data Factory, é possível criar pipelines automatizados para integrar e transformar informações, enquanto o monitoramento identifica problemas e analisa o desempenho em tempo real. O painel fornece uma interface centralizada e personalizável, permitindo organizar e acessar facilmente os dados mais relevantes. Essas soluções juntas promovem maior agilidade, escalabilidade e personalização no gerenciamento de sistemas e dados. 
+
 
 
 
